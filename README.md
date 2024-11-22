@@ -39,3 +39,5 @@ Check logs:
 docker logs -f glacier-verifier
 ```
 
+Check your node status (wait for 30 minutes to appear after node is activated):
+https://testnet.nodes.glacier.io/status
