@@ -11,7 +11,7 @@
 Reward: $GLS + $GLS Points + Whitelists
 
 1. Register your wallet:
-https://www.glacier.io/points
+[https://www.glacier.io/points](https://www.glacier.io/points/?inviter=0x8C5Ee78fcfBeb0B6832b61289D412de38A458A75)
 
 2.  Complete Galxe Task:
 https://app.galxe.com/quest/glacierlabs/GChNBtVG6A
